@@ -1,1 +1,3 @@
 # rladiesnyc_may2019
+
+Abstract: Of the existing R packages that help analyze baseball statistics, few are geared toward fantasy baseball, which benefits from projection data for drafting a team, and updated data for daily analysis to set game day rosters and maintain a fantasy team. This talk describes how to use the tidyverse package suite to bring in baseball data, analyze baseball statistics relevant to fantasy baseball, and draft a competitive fantasy baseball team. Expect a quick primer/refresher on fantasy baseball and statistics, sourcing baseball data for analysis, and analytic approaches to apply to a league of their own. 
